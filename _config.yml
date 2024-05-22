@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "lsy.png"
-  name             : "Your Sidebar Name"
+  name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "An explorer in the field of artificial intelligence"
   location         : "China"
   employer         : #
-  uri              : https://shuyanliucs.github.io/
+  URI              : "https://shuyanliucs.github.io/"
   email            : "ShuyanLiucs@163.com" 
 
   # Academic websites
