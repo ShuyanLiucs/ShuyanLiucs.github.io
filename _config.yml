@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/lsy.png"
+  avatar           : "/images/lsy.png"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "An explorer in the field of artificial intelligence"
@@ -212,6 +212,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  notes:
+    output: true
+    permalink: /:collection/:path/    
 
 
 # Defaults
@@ -267,6 +270,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
       author_profile: true
       share: true
 
