@@ -11,7 +11,7 @@ I'm a second-year graduate student from [School of Software](http://se.xjtu.edu.
 
 I am very fortunate to be advised by [Prof. WangchenXu](https://gr.xjtu.edu.cn/web/cxwang) of Xnet Lab from  Xi'an Jiaotong University. 
 
-You can find my CV here: [ShuaynLiu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [ShuyanLiu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:ShuyanLiucs@163.com) / [Github](https://github.com/ShuyanLiucs) 
 
